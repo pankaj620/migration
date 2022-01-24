@@ -7,12 +7,3 @@ variable "subscriptionId"{
 variable "RGName"{
  type=string
 }
-variable "tenantId"{
- type=string
-}
-variable "clientsecret"{
- type=string
-}
-variable "clientId"{
-}
-
