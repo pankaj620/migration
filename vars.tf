@@ -4,7 +4,7 @@ variable "location"{
 variable "subscriptionId"{
  type=string
 }
-variable "RGname"{
+variable "RGName"{
  type=string
 }
 variable "tenantId"{
